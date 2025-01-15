@@ -1,0 +1,23 @@
+
+      "stats": {
+        "hp": 650,                        // vida inicial
+        "hpperlevel": 99,                 // vida recebida por nivel
+        "mp": 339,                        // pontos de mana iniciais
+        "mpperlevel": 52,                 // pontos de mana por nivel
+        "movespeed": 340,                 // velocidade de movimento
+        "armor": 35,                      // armadura inicial
+        "armorperlevel": 5,               // armadura por nivel
+        "spellblock": 32,                 // resistencia a magia inicial
+        "spellblockperlevel": 2.05,       // resistencia a magia por nivel
+        "attackrange": 125,               // distancia do ataque basico
+        "hpregen": 8.5,                   // regenração de vida inicial
+        "hpregenperlevel": 0.8,           // regeneração de vida recebida por nivel
+        "mpregen": 8.15,                  // regeneração de mana
+        "mpregenperlevel": 0.75,          // regeneração de mana recebida por nivel
+        "crit": 0,                        // taxa de critico
+        "critperlevel": 0,                // critico recebido por nivel
+        "attackdamage": 68,               // dano fisico inicial
+        "attackdamageperlevel": 3.8,      // dano fisico recebido por nivel
+        "attackspeed": 0.644              // valocidade de ataque inicial
+        "attackspeedperlevel": 2.5,       // velocidade de ataque recebida por nivel
+      }
